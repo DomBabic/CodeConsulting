@@ -1,8 +1,8 @@
-package hr.etfos.d1babic.codeconsulting.view;
+package hr.etfos.d1babic.customwikise.view;
 
 import java.util.List;
 
-import hr.etfos.d1babic.codeconsulting.model.Item;
+import hr.etfos.d1babic.customwikise.model.Item;
 
 /**
  * Created by DominikZoran on 28.03.2017..

@@ -1,10 +1,10 @@
-package hr.etfos.d1babic.codeconsulting.presenter;
+package hr.etfos.d1babic.customwikise.presenter;
 
 import java.util.List;
 
-import hr.etfos.d1babic.codeconsulting.model.Base;
-import hr.etfos.d1babic.codeconsulting.model.Item;
-import hr.etfos.d1babic.codeconsulting.view.MainView;
+import hr.etfos.d1babic.customwikise.model.Base;
+import hr.etfos.d1babic.customwikise.model.Item;
+import hr.etfos.d1babic.customwikise.view.MainView;
 import io.realm.Realm;
 import retrofit2.Response;
 

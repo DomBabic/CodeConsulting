@@ -1,4 +1,4 @@
-package hr.etfos.d1babic.codeconsulting;
+package hr.etfos.d1babic.customwikise;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

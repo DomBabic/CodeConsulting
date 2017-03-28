@@ -1,4 +1,4 @@
-package hr.etfos.d1babic.codeconsulting.utility;
+package hr.etfos.d1babic.customwikise.utility;
 
 /**
  * Created by DominikZoran on 28.03.2017..

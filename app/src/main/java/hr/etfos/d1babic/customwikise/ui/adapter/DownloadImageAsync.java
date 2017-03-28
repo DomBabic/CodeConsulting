@@ -1,4 +1,4 @@
-package hr.etfos.d1babic.codeconsulting.ui.adapter;
+package hr.etfos.d1babic.customwikise.ui.adapter;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

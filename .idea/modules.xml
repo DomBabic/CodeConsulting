@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomWikiSE.iml" filepath="$PROJECT_DIR$/CustomWikiSE.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/codeconsulting.iml" filepath="$PROJECT_DIR$/codeconsulting.iml" />
     </modules>
   </component>
 </project>
