@@ -1,4 +1,4 @@
-package hr.etfos.d1babic.customwikise.model;
+package hr.etfos.d1babic.codeconsulting.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

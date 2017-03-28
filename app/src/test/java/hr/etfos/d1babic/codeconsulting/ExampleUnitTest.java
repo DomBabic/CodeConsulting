@@ -1,4 +1,4 @@
-package hr.etfos.d1babic.customwikise;
+package hr.etfos.d1babic.codeconsulting;
 
 import org.junit.Test;
 

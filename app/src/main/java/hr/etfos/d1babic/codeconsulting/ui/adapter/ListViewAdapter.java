@@ -1,4 +1,4 @@
-package hr.etfos.d1babic.customwikise.ui.adapter;
+package hr.etfos.d1babic.codeconsulting.ui.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,8 +10,8 @@ import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 import java.util.List;
 
-import hr.etfos.d1babic.customwikise.R;
-import hr.etfos.d1babic.customwikise.model.Item;
+import hr.etfos.d1babic.codeconsulting.model.Item;
+import hr.etfos.d1babic.codeconsulting.R;
 
 /**
  * Created by DominikZoran on 28.03.2017..

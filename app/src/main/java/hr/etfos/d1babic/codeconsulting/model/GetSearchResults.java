@@ -1,4 +1,4 @@
-package hr.etfos.d1babic.customwikise.model;
+package hr.etfos.d1babic.codeconsulting.model;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

@@ -1,7 +1,7 @@
-package hr.etfos.d1babic.customwikise.presenter;
+package hr.etfos.d1babic.codeconsulting.presenter;
 
-import hr.etfos.d1babic.customwikise.model.Base;
-import hr.etfos.d1babic.customwikise.view.MainView;
+import hr.etfos.d1babic.codeconsulting.model.Base;
+import hr.etfos.d1babic.codeconsulting.view.MainView;
 import retrofit2.Response;
 
 /**

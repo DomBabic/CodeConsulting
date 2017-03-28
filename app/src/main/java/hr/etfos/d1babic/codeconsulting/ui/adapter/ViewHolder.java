@@ -1,4 +1,4 @@
-package hr.etfos.d1babic.customwikise.ui.adapter;
+package hr.etfos.d1babic.codeconsulting.ui.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,7 +10,7 @@ import android.widget.TextView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import hr.etfos.d1babic.customwikise.R;
+import hr.etfos.d1babic.codeconsulting.R;
 
 /**
  * Created by DominikZoran on 28.03.2017..
