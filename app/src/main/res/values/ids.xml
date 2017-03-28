@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="input_field" />
+    <item type="id" name="search_button" />
+    <item type="id" name="list_view" />
+
+    <item type="id" name="image" />
+    <item type="id" name="title" />
+    <item type="id" name="link" />
+    <item type="id" name="snippet" />
+</resources>
